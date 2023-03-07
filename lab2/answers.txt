@@ -1,6 +1,6 @@
-totafsdfsf test fdsfsdf
-totafsdtest2 fdsfsdf fdfjs
-jfldjfldk # wynik
+test1 PRZYK
+test2 T
+test3 ABCDE
 fjdfsfds # k alal
 djfjkldsjf test5 jjjjjj fsfjdljfdlsj flj ldfj
 gjjkdsljflds test6 jdlkfjdslf

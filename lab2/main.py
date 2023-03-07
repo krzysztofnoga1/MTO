@@ -4,7 +4,7 @@ import sys
 
 def string_to_numeric(count, str):
     index=0;
-    pw=power(10, count-1)
+    pw=pow(10, count-1)
     res=0
     while str[index] in ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']:
         res+=pw*int(str[index])
@@ -38,6 +38,7 @@ def my_printf(format_string,param):
             	    print(param[:int(length)].swapcase(), end="")
                 shouldDo=False
                 print(format_string[idx+3+count:],end="")
+                break
             else:
                 print(format_string[idx],end="")
         else:
