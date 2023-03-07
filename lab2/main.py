@@ -18,7 +18,7 @@ def get_string_length(str):
 	
 	if(str[index] not in ['1', '2', '3', '4', '5', '6', '7', '8', '9']):
 		return -1, count
-	while(str[index] in []:
+	while(str[index] in ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9']:
 		count=count+1
 		index=index+1
 	if(str[index]!='k':
